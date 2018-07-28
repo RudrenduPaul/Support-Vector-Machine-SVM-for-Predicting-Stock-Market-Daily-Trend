@@ -1,0 +1,1 @@
+# Support-Vector-Machine-SVM-for-Customer-Segmentation-to-Predict-Stock-Market-Daily-Trend
