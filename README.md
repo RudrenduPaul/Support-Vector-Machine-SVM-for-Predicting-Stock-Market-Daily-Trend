@@ -14,4 +14,4 @@ Training the Model:
 
 The data was then split into training and test data based on 80-20 split. All the quantitative data was then scaled. The Price trend for the next month was then predicted from the scaled inputs from the 4 indicators. The model was trained on the training set.
 
-The model gave a 58% predictive accuracy on the test data set.
+The model gave a 54% predictive accuracy on the test data set.
